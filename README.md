@@ -12,7 +12,6 @@
         GrpahQL
         REST
         Express
-        SpringBoot
         ORM
     
     # ATK 3
